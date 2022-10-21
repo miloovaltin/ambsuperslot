@@ -1,0 +1,16 @@
+{
+"name": "ambsuperslot",
+"theme": "amb superslot",
+"version": "9.7.3",
+"description": "amb superslot ทางเข้าหลักเว็บสล็อตเว็บตรง ระบบออโต้ แจกโบนัสเครดิตฟรี",
+"keywords": [
+"amb superslot",
+"amb superslot เครดิตฟรี",
+"amb superslot ทางเข้า"
+],
+"repository": "https://github.com/miloovaltin/ambsuperslot",
+"license": "MIT",
+"engines": {
+"atom": ">=1.0.0 <2.0.0"
+}
+}
